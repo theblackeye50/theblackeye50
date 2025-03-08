@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @theblackeye50
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rahul Kumar Chaudhary 
+- 👀 I’m interested in software devlopment ans problem solving 
+- 🌱 I’m currently learning Real-life problem-solving.
+- 💞️ I’m looking to collaborate on full-stack web development projects and problem-solving challenges.
+- 📫 How to reach me at LinkedIn (https://www.linkedin.com/in/rahul-kumar-chaudhary-598b03219/)
 
 <!---
 theblackeye50/theblackeye50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
