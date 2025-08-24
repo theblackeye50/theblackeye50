@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Kumar Chaudhary 
-- 👀 I’m interested in software devlopment ans problem solving 
+- 👀 I’m interested in software devlopment and problem solving 
 - 🌱 I’m currently learning Real-life problem-solving.
 - 💞️ I’m looking to collaborate on full-stack web development projects and problem-solving challenges.
 - 📫 You can reach me at LinkedIn (https://www.linkedin.com/in/rahul-kumar-chaudhary-598b03219/)
